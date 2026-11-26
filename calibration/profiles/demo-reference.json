@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "source": "Wuji whole-hand matched open reference, 2026-11-23; motor offsets are measured at launch",
+  "joints": [
+    {
+      "motor_id": 1,
+      "name": "finger2joint1",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.05235987755982989
+    },
+    {
+      "motor_id": 2,
+      "name": "finger2joint2",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": -0.05235987755982989
+    },
+    {
+      "motor_id": 3,
+      "name": "finger2joint3",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 4,
+      "name": "finger2joint4",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 5,
+      "name": "finger3joint1",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": -0.05235987755982989
+    },
+    {
+      "motor_id": 6,
+      "name": "finger3joint2",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": -0.05235987755982989
+    },
+    {
+      "motor_id": 7,
+      "name": "finger3joint3",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 8,
+      "name": "finger3joint4",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 9,
+      "name": "finger1joint1",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": -0.05235987755982989
+    },
+    {
+      "motor_id": 10,
+      "name": "finger1joint2",
+      "direction": -1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 11,
+      "name": "finger1joint3",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    },
+    {
+      "motor_id": 12,
+      "name": "finger1joint4",
+      "direction": 1,
+      "reduction_ratio": 50,
+      "stretch_rad": 0.0
+    }
+  ]
+}
